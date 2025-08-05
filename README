@@ -1,0 +1,9 @@
+------------
+**Project Title:** *Recursive Factorial Calculator*
+
+**Description:**
+This project implements a simple yet efficient **recursive algorithm** in Python to calculate the factorial of a given non-negative integer.
+The program prompts the user for input, processes it using a recursive function `factorial(n)`, and returns the result.
+It demonstrates core programming concepts such as **recursion, input handling**, and **mathematical computation**, making it a fundamental example for understanding algorithm design and function calls in Python.
+
+-------------
